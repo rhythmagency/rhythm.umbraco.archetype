@@ -1,0 +1,17 @@
+# Visual Studio
+###############
+**/obj/Debug/
+**/bin/Debug/
+**/obj/Release/
+**/bin/Release/
+.vs
+*.csproj.user
+
+# WebStorm
+##########
+.idea
+
+# NuGet
+#######
+packages
+*.nupkg
